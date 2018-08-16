@@ -1,0 +1,30 @@
+h1{
+  font-size: 120px;
+  text-align: center;
+  background-image: url("./title_bg.jpeg");
+  color: royalblue;
+}
+
+h2{
+  font-size: 50px;
+}
+
+#brushes{
+  color: white;
+  background-color: limegreen;
+}
+
+#frames{
+  color: white;
+  background-color: firebrick;
+}
+
+#paint{
+  color: white;
+  background-color: blueviolet;
+}
+
+.bold{
+  color: blue;
+  font-weight: bold;
+}
